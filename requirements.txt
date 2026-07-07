@@ -3,6 +3,6 @@ torch==2.12.1
 torchvision==0.27.1
 Pillow==12.0.0
 numpy
-opencv-python-headless
-grad-cam
+opencv-python-headless==4.10.0.84
+grad-cam==1.5.5
 matplotlib
