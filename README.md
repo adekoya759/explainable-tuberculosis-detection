@@ -55,7 +55,7 @@ https://www.kaggle.com/code/adekoyaoluwatobi/comparative-analysis-of-tb-classifi
   | Shenzhen Hospital CXR Set | Training/validation/test pool |
   | TBX11K | Training/validation/test pool |
   | TB Chest X-ray (Rahman) | Training/validation/test pool |
-  | Pakistan TB CXR Dataset | External validation cohort |
+  | Pakistan TB CXR Dataset | Training/validation/test pool |
 - **Split:** Stratified 70% train / 10% validation / 20% test (7,278 / 1,040 / 2,080 images)
 - **Preprocessing:**
   - CLAHE (Contrast Limited Adaptive Histogram Equalization) applied to every image (clip limit 2.0, tile grid 8×8) to enhance visibility of subtle lung opacities
