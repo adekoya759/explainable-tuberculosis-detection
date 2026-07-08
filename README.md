@@ -66,10 +66,9 @@ https://www.kaggle.com/code/adekoyaoluwatobi/comparative-analysis-of-tb-classifi
 ### Sample Chest X-ray Images
 
 <p align="center">
-  <img src="Control.png" alt="Control (Normal) Chest X-ray" width="350" height="350">
-  <img src="TB.png" alt="Tuberculosis-positive Chest X-ray" width="350" height="350">
+  <img src="Control.png" height="300" alt="Control (Normal) Chest X-ray">
+  <img src="TB.png" height="300" alt="Tuberculosis-positive Chest X-ray">
 </p>
-
 
 ## Model Architecture
 
